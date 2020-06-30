@@ -6,7 +6,7 @@ A repository for Hinglish code mixed language word embeddings training
 The dataset used for training these embeddings are as follows:
 	- Extracted one 35K line of tweets using twitter API from different regions of India available [here](<placeholder>)
 
-	- Kaggle Hindi News [original](https://www.kaggle.com/pk13055/code-mixed-hindienglish-dataset). It contains Hindi language dataset from multiple newspapers. This data is the transliterated to roman script using (indic transliterator)[https://github.com/sanskrit-coders/indic_transliteration]. The transliterated data after combining all of the news data is available (here)[https://drive.google.com/file/d/1-0o5cZi9F4XXMdB0Miku--5tvHKfkvD-/view?usp=sharing] 
+	- Kaggle Hindi News [original](https://www.kaggle.com/pk13055/code-mixed-hindienglish-dataset). It contains Hindi language dataset from multiple newspapers. This data is the transliterated to roman script using (indic transliterator)[https://github.com/sanskrit-coders/indic_transliteration]. The transliterated data after combining all of the news data is available (here)[<placeholder>] 
 
 	- Hinglish Offensive Tweets(HOT) dataset contains 3189 offensive tweets in (Hinglish). (Mathur et al.,2018) The dataset is available (here)[<placeholder>]
 
