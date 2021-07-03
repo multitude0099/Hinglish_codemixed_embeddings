@@ -1,10 +1,13 @@
 # Hinglish Codemixed Embeddings
 A repository for Hinglish code mixed language word embeddings training
 
+# Trained embedding
+The trained embeddings are available [here](hinglish_codemixed_embeddings_200)
+
 ## Data
 
 The dataset used for training these embeddings are as follows:
-	- Extracted one 35K line of tweets using twitter API from different regions of India available [here](<placeholder>)
+	- Extracted one 35K line of tweets using twitter API from different regions of India available.
 
 	- Kaggle Hindi News [original](https://www.kaggle.com/pk13055/code-mixed-hindienglish-dataset). It contains Hindi language dataset from multiple newspapers. This data is the transliterated to roman script using (indic transliterator)[https://github.com/sanskrit-coders/indic_transliteration]. The transliterated data after combining all of the news data is available (here)[<placeholder>] 
 
